@@ -1,17 +1,18 @@
-# ITP 435 Labs - Spring 2015 #
+# Zombie Simulator #
 
-### PUT YOUR INFO HERE ###
+### Information ###
 Name: Yunying Tu
 
 Email: yunyingt@usc.edu
 
 Platform: PC
 
-### Directories ###
-* rle - PA1
-* password - PA2
-* dnawx - PA3
-* zombiewx - PA4
-* zompiler - PA5
-* tbb - Intel Thread Building Blocks Library
-* wx - wxWidgets Library
+### About the Project ###
+
+This is one of the labs in Professional C++ class.
+
+The basic idea is that there are zombies and humans fighting for dominance a post-apocalyptic zombie world. Rather than hard-coding the behavior of the zombies and humans, their behavior is off-loaded to “.zom” files. So for instance, “daryl_dixon.zom” is a pretty awesome ranged/melee zombie killer while “michonne.zom” only does melee attacks.
+
+I selected this project to submit it as code example because it covers many C++ specific technologies, including file parse, std::exceptions, object-oriented design and implementation, and GUI using wx API's.
+
+Feel free to view all my other projects in this Github.
